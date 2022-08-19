@@ -1,4 +1,9 @@
-# QUANTICO Reproducibility Instructions
+# Bayesian QUANtile regression for hierarchical COvariates (QUANTICO)
+
+- Code author: [Priyam Das](https://github.com/priyamdas2)
+- Publication: Das P, Peterson CB, Ni Y, Reuben A, Zhang J, Zhang J, Do K, Baladandayuthapani V. (2022+) Bayesian hierarchical quantile regression with application to characterizing the immune architecture of lung cancer. *Biometrics*.
+
+## QUANTICO Reproducibility Instructions
 
 ### 1. Simulation study
 * The QUANTICO simulation study is performed for two sample size scenarios, n = 100 and n = 200. Within each scenario, multiple sub-scenarios are considered. To reproduce the results provided in the Table 1, please go to the folders ‘Sample Size 100 Codes’ and ‘Sample Size 200 Codes’ and follow the instructions in the corresponding README files.
